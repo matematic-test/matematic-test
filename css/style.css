@@ -28,6 +28,9 @@ button {
 }
 @media only screen and (min-width : 870px) and (max-width : 1500px) {
 	.foto{
-		width = "90%";
+		width :90%;
+	}
+	#basic {
+		width: 70%;
 	}
 }
