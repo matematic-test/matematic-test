@@ -23,3 +23,6 @@ body{
 /*кнопки*/
 -webkit-appearance: none;
 -webkit-border-radius: 0;
+button {
+    border-radius: 0px;
+}
